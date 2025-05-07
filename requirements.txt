@@ -1,0 +1,40 @@
+# E2B_API_KEY = "e2b_49e3e7e6ca151336a99b1ca52d24bacb3fedd0da"
+
+langchain
+langchain-groq
+langchain-core
+langchain-community
+python-dotenv
+ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+openai
+duckduckgo_search==5.3.1b1
+pymupdf
+arxiv
+wikipedia
+xmltodict    # for medical
+requests
+typing
+pydantic
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
+sqlalchemy
+pymysql  # Add to requirements.txt
+requests
